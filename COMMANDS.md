@@ -40,7 +40,7 @@
 
 ## &#x20;**> To create a key (.pub)**
 
-&#x20;   *ssh-keygen -o - creates .pub file(Key)*
+
 
 
 
@@ -65,4 +65,10 @@
 &#x20;   *git branch -d BranchName  - To delete existing branch*
 
 
+&#x20; **To create a key**
 
+&#x20; *ssh-keygen -o - creates .pub file(Key)*
+
+&#x20; *"Get-ChildItem -Force "$HOME\.ssh" - To check the presence of key .pub*
+
+&#x20; *"Get-Content "$env:USERPROFILE\.ssh\id_ed25519.pub" - To copy the link of key*
