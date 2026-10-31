@@ -27,6 +27,7 @@
 
 &#x20;   *"git add ." - For staging all at once.*
 
+&#x20;   *"git restore --staged filename" - To change Staged file into Unstaged file*
 
 
 ## &#x20;**> To commit an existing file**
