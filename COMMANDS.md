@@ -10,6 +10,7 @@
 
 &#x20;   *Removing: git remote remove origin* 
 
+&#x20;  *Changing https to ssh (or) vice versa: git remote set-url git@github.com:codingworldx2663-sudo*
 
 
 ## &#x20;**> To create repository :**
